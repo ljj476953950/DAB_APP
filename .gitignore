@@ -41,3 +41,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# generate by makefile
+*.o
+*.ko
+*.mod.c
+*.symvers
+*.order
+*.cmd
+/.tmp_versions
+
+
+
